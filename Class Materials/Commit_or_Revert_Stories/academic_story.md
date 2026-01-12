@@ -2,7 +2,7 @@
 
 ## The Lecture
 Professor X begins the semester with an ambitious plan for the class.
-
+He was late but brought cofee.
 ## The Students
 Each student has unique quirks and approaches to assignments, some more absurd than others.
 
